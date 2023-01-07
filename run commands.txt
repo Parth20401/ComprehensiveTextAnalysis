@@ -1,0 +1,1 @@
+streamlit run "D:\Comprehensive Text Analysis\Comprehensive_Text_Analysis.py"
